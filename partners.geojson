@@ -1,0 +1,971 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.63,
+          45.851
+        ]
+      },
+      "properties": {
+        "name": "Andes Tower Hills",
+        "region": "Minnesota",
+        "country": "USA",
+        "category": "1",
+        "benefit": "1 free ski day",
+        "restrictions": "No blackouts stated.",
+        "website": "https://www.andestowerhills.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.239,
+          49.154
+        ]
+      },
+      "properties": {
+        "name": "Baldy Mountain",
+        "region": "British Columbia",
+        "country": "Canada",
+        "category": "3",
+        "benefit": "3 free ski days",
+        "restrictions": "British Columbia and Alberta residents excluded.",
+        "website": "https://baldyresort.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.819,
+          49.104
+        ]
+      },
+      "properties": {
+        "name": "Big Red Cats",
+        "region": "British Columbia",
+        "country": "Canada",
+        "category": "D",
+        "benefit": "25% off cat skiing",
+        "restrictions": "25% off full-price guided single- or multi-day cat skiing for intermediate through expert groups. Book by phone or email; show pass or employee verification and driver’s licence. No blackouts. Marker is approximate office location, not staging area.",
+        "website": "https://bigredcats.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.851,
+          46.083
+        ]
+      },
+      "properties": {
+        "name": "Bluewood Mountain",
+        "region": "Washington",
+        "country": "USA",
+        "category": "3",
+        "benefit": "3 free ski days",
+        "restrictions": "No blackouts stated.",
+        "website": "https://bluewood.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.093,
+          43.769
+        ]
+      },
+      "properties": {
+        "name": "Bogus Basin",
+        "region": "Idaho",
+        "country": "USA",
+        "category": "3",
+        "benefit": "3 free ski days",
+        "restrictions": "Any day listed; Idaho and Montana residents excluded. Photo ID and pass receipt.",
+        "website": "https://bogusbasin.org",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.77,
+          46.24
+        ]
+      },
+      "properties": {
+        "name": "Boogie Mountain",
+        "region": "Ontario",
+        "country": "Canada",
+        "category": "1",
+        "benefit": "1 free ski day",
+        "restrictions": "No blackouts stated. Published approval heading contains a typo; benefit text specifies 2026/27.",
+        "website": "https://boogiemountain.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.72,
+          44.245
+        ]
+      },
+      "properties": {
+        "name": "Caberfae Peaks",
+        "region": "Michigan",
+        "country": "USA",
+        "category": "2",
+        "benefit": "2 free ski days",
+        "restrictions": "Mon–Fri starting Jan 4, 2027.",
+        "website": "https://caberfaepeaks.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.392,
+          42.321
+        ]
+      },
+      "properties": {
+        "name": "Chestnut Mountain",
+        "region": "Illinois",
+        "country": "USA",
+        "category": "2",
+        "benefit": "2 free ski days",
+        "restrictions": "Sun–Fri; Jan 10, Jan 17 and Feb 14 excluded.",
+        "website": "https://www.chestnutmtn.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.992,
+          44.52
+        ]
+      },
+      "properties": {
+        "name": "Crystal Mountain",
+        "region": "Michigan",
+        "country": "USA",
+        "category": "1",
+        "benefit": "1 free ski day",
+        "restrictions": "Daily opening–Dec 18 and Mar 8–closing. Peak Sun–Thu Dec 21–Apr 4; holiday exclusions Dec 28–Jan 3, Jan 15–17, Feb 12–14. Published periods overlap; verify with resort.",
+        "website": "https://www.crystalmountain.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.923,
+          39.254
+        ]
+      },
+      "properties": {
+        "name": "Diamond Peak",
+        "region": "Nevada",
+        "country": "USA",
+        "category": "3",
+        "benefit": "3 free ski days",
+        "restrictions": "Blackouts Dec 19–Jan 3, Jan 16–18 and Feb 13–21. Residents of WA, OR, CA, NV, ID, UT, AZ, CO, NM, TX, AK and HI excluded.",
+        "website": "https://www.diamondpeak.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.516,
+          58.268
+        ]
+      },
+      "properties": {
+        "name": "Eaglecrest",
+        "region": "Alaska",
+        "country": "USA",
+        "category": "3",
+        "benefit": "3 free ski days",
+        "restrictions": "Alaska residents excluded.",
+        "website": "https://skieaglecrest.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.079,
+          48.914
+        ]
+      },
+      "properties": {
+        "name": "Frost Fire Park",
+        "region": "North Dakota",
+        "country": "USA",
+        "category": "1",
+        "benefit": "1 free ski day",
+        "restrictions": "No blackouts stated.",
+        "website": "https://frostfirepark.org",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.665,
+          43.578
+        ]
+      },
+      "properties": {
+        "name": "Great Bear Ski Valley",
+        "region": "South Dakota",
+        "country": "USA",
+        "category": "1",
+        "benefit": "1 free ski day",
+        "restrictions": "No blackouts stated.",
+        "website": "https://greatbearpark.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.313,
+          46.753
+        ]
+      },
+      "properties": {
+        "name": "Great Divide",
+        "region": "Montana",
+        "country": "USA",
+        "category": "3",
+        "benefit": "3 free ski days",
+        "restrictions": "Montana and Idaho residents excluded. Photo ID and pass receipt.",
+        "website": "https://skigd.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.625,
+          41.625
+        ]
+      },
+      "properties": {
+        "name": "Holiday Mountain",
+        "region": "New York",
+        "country": "USA",
+        "category": "2",
+        "benefit": "2 free ski days",
+        "restrictions": "New York residents excluded.",
+        "website": "https://skiholidaymtn.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.69,
+          42.275
+        ]
+      },
+      "properties": {
+        "name": "HoliMont",
+        "region": "New York",
+        "country": "USA",
+        "category": "2",
+        "benefit": "2 free ski days",
+        "restrictions": "Weekdays only; Jan 18 and Feb 15 excluded. New York and Pennsylvania residents excluded.",
+        "website": "https://holimont.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.723,
+          46.627
+        ]
+      },
+      "properties": {
+        "name": "Huff Hills",
+        "region": "North Dakota",
+        "country": "USA",
+        "category": "1",
+        "benefit": "1 free ski day",
+        "restrictions": "No blackouts stated.",
+        "website": "https://www.huffhills.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.63,
+          43.646
+        ]
+      },
+      "properties": {
+        "name": "Kelly Canyon",
+        "region": "Idaho",
+        "country": "USA",
+        "category": "3",
+        "benefit": "3 free ski days",
+        "restrictions": "Blackouts Dec 19–Jan 3, Jan 16–18, Feb 13–15. Residents of ID, MT, WA, OR, WY and UT excluded.",
+        "website": "https://kellycanyonresort.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.347,
+          48.294
+        ]
+      },
+      "properties": {
+        "name": "Loch Lomond",
+        "region": "Ontario",
+        "country": "Canada",
+        "category": "2",
+        "benefit": "2 free ski days",
+        "restrictions": "Canadian residents excluded.",
+        "website": "https://www.lochlomond.ca",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.917,
+          48.393
+        ]
+      },
+      "properties": {
+        "name": "Loup Loup Ski Bowl",
+        "region": "Washington",
+        "country": "USA",
+        "category": "3",
+        "benefit": "3 free ski days",
+        "restrictions": "Washington and Oregon residents excluded; no date blackouts stated.",
+        "website": "https://skitheloup.org",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.897,
+          39.68
+        ]
+      },
+      "properties": {
+        "name": "Loveland Ski Area",
+        "region": "Colorado",
+        "country": "USA",
+        "category": "3",
+        "benefit": "3 free ski days",
+        "restrictions": "Sun–Fri starting Jan 4; Feb 14 excluded. Residents of CO, UT, WY, SD, NE, KS, NM, AZ, ID and TX excluded.",
+        "website": "https://skiloveland.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.42,
+          46.508
+        ]
+      },
+      "properties": {
+        "name": "Marquette Mountain",
+        "region": "Michigan",
+        "country": "USA",
+        "category": "1",
+        "benefit": "1 free ski day",
+        "restrictions": "Sun–Thu beginning Jan 5, 2027.",
+        "website": "https://marquettemountain.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9,
+          42.35
+        ]
+      },
+      "properties": {
+        "name": "Masella",
+        "region": "Catalonia",
+        "country": "Spain",
+        "category": "3",
+        "benefit": "3 consecutive free ski days",
+        "restrictions": "Three consecutive days.",
+        "website": "https://www.masella.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.291,
+          48.163
+        ]
+      },
+      "properties": {
+        "name": "Mont Edouard",
+        "region": "Quebec",
+        "country": "Canada",
+        "category": "U",
+        "benefit": "Unlimited skiing",
+        "restrictions": "American Bohemia passholders only; US driver's licence or passport and season pass required.",
+        "website": "https://www.montedouard.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.566,
+          47.128
+        ]
+      },
+      "properties": {
+        "name": "Mont Ripley",
+        "region": "Michigan",
+        "country": "USA",
+        "category": "2",
+        "benefit": "2 free ski days",
+        "restrictions": "Starts Jan 4; Feb 2 and Feb 6 excluded.",
+        "website": "https://www.mtu.edu/mont-ripley",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.378,
+          46.448
+        ]
+      },
+      "properties": {
+        "name": "Mount Ski Gull",
+        "region": "Minnesota",
+        "country": "USA",
+        "category": "1",
+        "benefit": "1 free ski day",
+        "restrictions": "No blackouts stated.",
+        "website": "https://www.mountskigull.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.925,
+          41.582
+        ]
+      },
+      "properties": {
+        "name": "Mount Southington",
+        "region": "Connecticut",
+        "country": "USA",
+        "category": "2",
+        "benefit": "2 free ski days",
+        "restrictions": "No specific date restrictions listed.",
+        "website": "https://mountsouthington.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.253,
+          51.909
+        ]
+      },
+      "properties": {
+        "name": "Mount Timothy",
+        "region": "British Columbia",
+        "country": "Canada",
+        "category": "3",
+        "benefit": "3 free ski days",
+        "restrictions": "Canadian citizens excluded.",
+        "website": "https://skitimothy.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.184,
+          43.748
+        ]
+      },
+      "properties": {
+        "name": "Mt. La Crosse",
+        "region": "Wisconsin",
+        "country": "USA",
+        "category": "1",
+        "benefit": "1 free ski day",
+        "restrictions": "Meet Weekend and Nagy Weekend excluded; dates not given.",
+        "website": "https://mtlacrosse.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.114,
+          47.921
+        ]
+      },
+      "properties": {
+        "name": "Mt. Spokane",
+        "region": "Washington",
+        "country": "USA",
+        "category": "3",
+        "benefit": "3 free ski days",
+        "restrictions": "Washington and Idaho residents excluded. Photo ID and pass receipt.",
+        "website": "https://skinwrockies.com/mt-spokane",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.868,
+          45.79
+        ]
+      },
+      "properties": {
+        "name": "Norway Mountain",
+        "region": "Michigan",
+        "country": "USA",
+        "category": "1",
+        "benefit": "1 free ski day",
+        "restrictions": "Saturdays excluded.",
+        "website": "https://norwaymt.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.089,
+          45.839
+        ]
+      },
+      "properties": {
+        "name": "Pine Mountain",
+        "region": "Michigan",
+        "country": "USA",
+        "category": "1",
+        "benefit": "1 free ski day",
+        "restrictions": "No specific date restrictions listed.",
+        "website": "https://pinemountainresort.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.653,
+          42.291
+        ]
+      },
+      "properties": {
+        "name": "Plattekill Mountain",
+        "region": "New York",
+        "country": "USA",
+        "category": "3",
+        "benefit": "3 free ski days",
+        "restrictions": "Starts Jan 4; Jan 16–18 and Feb 13–21 excluded. Source says only Michigan Mt Bohemia passholders may redeem; confirm whether this means Michigan residence or pass origin. Reciprocal Plattekill passholder residency wording also appears on source.",
+        "website": "https://plattekill.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.966,
+          42.029
+        ]
+      },
+      "properties": {
+        "name": "Seven Oaks",
+        "region": "Iowa",
+        "country": "USA",
+        "category": "1",
+        "benefit": "1 free ski day",
+        "restrictions": "No specific date restrictions listed.",
+        "website": "https://sevenoaksrec.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.954,
+          54.484
+        ]
+      },
+      "properties": {
+        "name": "Shames Mountain",
+        "region": "British Columbia",
+        "country": "Canada",
+        "category": "U",
+        "benefit": "Unlimited skiing",
+        "restrictions": "Unlimited through season end in April; no blackouts stated.",
+        "website": "https://mymountaincoop.ca",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.701,
+          46.029
+        ]
+      },
+      "properties": {
+        "name": "Ski Brule",
+        "region": "Michigan",
+        "country": "USA",
+        "category": "1",
+        "benefit": "1 free ski day",
+        "restrictions": "Thu, Fri and Sun starting Jan 4, 2027.",
+        "website": "https://skibrule.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.781,
+          43.959
+        ]
+      },
+      "properties": {
+        "name": "Snow Snake",
+        "region": "Michigan",
+        "country": "USA",
+        "category": "1",
+        "benefit": "1 free ski day",
+        "restrictions": "No specific date restrictions listed.",
+        "website": "https://snowsnake.net",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.727,
+          41.427
+        ]
+      },
+      "properties": {
+        "name": "Snowstar",
+        "region": "Illinois",
+        "country": "USA",
+        "category": "1",
+        "benefit": "1 free ski day",
+        "restrictions": "No blackouts stated.",
+        "website": "https://skisnowstar.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.217,
+          46.718
+        ]
+      },
+      "properties": {
+        "name": "Spirit Mountain",
+        "region": "Minnesota",
+        "country": "USA",
+        "category": "1",
+        "benefit": "1 free ski day",
+        "restrictions": "No blackouts stated.",
+        "website": "https://www.spiritmt.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.514,
+          44.245
+        ]
+      },
+      "properties": {
+        "name": "Steeplechase",
+        "region": "Minnesota",
+        "country": "USA",
+        "category": "1",
+        "benefit": "1 free ski day",
+        "restrictions": "No blackouts stated.",
+        "website": "https://www.steeplechaseevents.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.224,
+          43.492
+        ]
+      },
+      "properties": {
+        "name": "Sunburst Ski Area",
+        "region": "Wisconsin",
+        "country": "USA",
+        "category": "1",
+        "benefit": "1 free ski day",
+        "restrictions": "No blackouts stated.",
+        "website": "https://skisunburst.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.563,
+          33.974
+        ]
+      },
+      "properties": {
+        "name": "Sunrise Park Resort",
+        "region": "Arizona",
+        "country": "USA",
+        "category": "3",
+        "benefit": "3 free ski days",
+        "restrictions": "Saturdays excluded; residents of AZ, CA and NM excluded.",
+        "website": "https://sunrise.ski",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.648,
+          46.82
+        ]
+      },
+      "properties": {
+        "name": "The Porkies",
+        "region": "Michigan",
+        "country": "USA",
+        "category": "1",
+        "benefit": "1 free ski day",
+        "restrictions": "February Saturdays excluded.",
+        "website": "https://www.michigan.gov/skitheporkies",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.781,
+          42.392
+        ]
+      },
+      "properties": {
+        "name": "Timber Ridge",
+        "region": "Michigan",
+        "country": "USA",
+        "category": "1",
+        "benefit": "1 free ski day",
+        "restrictions": "No blackouts stated.",
+        "website": "https://www.timberridgeski.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.535,
+          -39.3
+        ]
+      },
+      "properties": {
+        "name": "Turoa",
+        "region": "Manawatū-Whanganui",
+        "country": "New Zealand",
+        "category": "3",
+        "benefit": "3 consecutive free ski days",
+        "restrictions": "Three consecutive days during 2027 ski season; NZ and Australian residents excluded.",
+        "website": "https://www.pureturoa.nz",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.152,
+          49.444
+        ]
+      },
+      "properties": {
+        "name": "Whitewater Mountain Resort",
+        "region": "British Columbia",
+        "country": "Canada",
+        "category": "2",
+        "benefit": "2 free ski days",
+        "restrictions": "Blackouts Dec 19–Jan 3 and Feb 13–15. Additional full-day tickets 25% off window rate.",
+        "website": "https://whitewatermountainresort.com",
+        "source": "https://www.mtbohemia.com/season-passes/",
+        "coordinate_quality": "Approximate resort location; verify access before travel"
+      }
+    }
+  ]
+}
